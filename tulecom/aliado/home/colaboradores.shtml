@@ -1,0 +1,90 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>ALIADO</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../estilos.css" type="text/css" media="all" />
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+//-->
+</script>
+<style type="text/css">
+<!--
+a:link {
+	color: #58585a;
+	text-decoration: none;
+}
+a:visited {
+	color: #58585a;
+	text-decoration: none;
+}
+a:hover {
+	color: #58585a;
+	text-decoration: none;
+}
+a:active {
+	color: #58585a;
+	text-decoration: none;
+}
+-->
+</style></head>
+
+<body>
+<div id="content">
+  <div id="globalcontainer">
+    <!--#INCLUDE virtual="../include/cabecera_limpia.html" -->
+
+
+
+<div id="medio">
+  <!--#INCLUDE virtual="../include/lateral_index.html" -->
+  <div id="contenido" style="position:absolute; width:709px; height:115px; z-index:1">       
+		
+          <p>&nbsp;
+
+          </p>
+
+          
+        <p align="justify" id="titulo_cont">Colaboradores</p>
+          <p align="justify"><img src="../imagenes/imagen_puntos.jpg" width="472" height="9">
+         
+         <p align="justify" id="gen">El proyecto ALIADO (ALzheimer Intelligent Ambient DOmotic system) es un Programa colaborativo de Investigación a medio plazo entre grupos de investigación universitarios líderes en Inteligencia Ambiental </p>
+        
+          <ul><li><p id="cont" align="justify"><a href="http://bisite.usal.es/">Grupo BISITE de la Universidad de Salamanca</a> <br>
+          </li>
+        <li><p id="cont" align="justify"><a href="http://mami.uclm.es">Grupo MAMI de la Universidad de Castilla la Mancha)</a> <br>
+        </li> 
+           <li><p id="cont" align="justify"><a href="http://www.cedetel.es">CEDETEL (Centro Tecnológico para el Desarrollo de las Telecomunicaciones de Castilla y León)</a><br>
+           </li>
+<li><p id="cont" align="justify"><a href="http://www.laresfederacion.org">Federación LARES (Residencias y Servicios de atención a mayores del sector solidario)</a><br>
+</li>
+        <li><p id="cont" align="justify"><a href="http://afasalamanca.org">AFA Salamanca (Asociación de Enfermos y Familiares de Alzheimer de Salamanca) </a><br>
+        </li>
+        <li><p id="cont" align="justify"><a href="http://tulecom.com">Departamento de I+D+i de la empresa TULECOM Group (Tulecom Solutions) </a><br>
+        </li>
+        <li><p id="cont" align="justify"> <a href="http://ceafa.es">Confederación Española de Familiares de Enfermos de Alzheimer y otras Demencias (CEAFA) </a><br>
+        </li>
+        <li><p id="cont" align="justify"><a href="http://www.sanidad.jcyl.es/hospitales/cm/CASalamanca">Hospital Clínico Universitario de Salamanca</a><br>
+        </li>
+        <li><p id="cont" align="justify"><a href="http://www.hospitaldefuenlabrada.org">Hospital de Fuenlabrada</a><br>
+        </li>
+        <li><p id="cont" align="justify"><a href="http://www.fhgst.es">Fundación Hospital de la Santísima Trinidad de Salamanca<br>
+        </a></li>
+              <li><p id="cont" align="justify">Residencia Alzheimer Boni Mediero de Salamanca<br></li>
+        </ul>
+            </p>
+      
+    </div>
+</div>
+</div>
+
+<!--#INCLUDE virtual="../include/pie.html" -->
+</div>
+</body>
+</html>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+<meta name="title" content="Residencial La Vega Salamanca"/>
+<meta name="DC.Title" content="Residencial La Vega Salamanca"/>
+<meta name="robots" content="all"/>
+
+	<title>Web Residencial La Vega</title>
+    
+    <link rel="stylesheet" href="estilos.css" type="text/css" media="all" />
+    
+<style type="text/css">
+<!--
+body,td,th {
+	color: #FFFFFF;
+}
+.style2 {color: #919a99}
+-->
+</style></head>
+
+<body topmargin="0" bottommargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('../imagenes/boton_avanzar_do.png')">
+<script language="JavaScript1.2" type="text/javascript">mmLoadMenus();</script>
+
+ <div id="content">
+ 
+   <div id="globalcontainer">
+    <!--#INCLUDE virtual="include/cabecera.html" -->
+     <div id="medio">
+     <!--#INCLUDE virtual="include/lateral.html" -->
+    <div id="espacio1">
+      
+        <blockquote>
+         &nbsp;
+          <p id="titulo1"> Instalaciones</p>
+          <p>Nuestras instalaciones cuentan con las siguientes características:<br />
+            </p>
+        </blockquote>
+        <blockquote>
+        <table width="632" border="0" align="center">
+          <tr>
+            <td width="399"><span class="style2">- 27 habitaciones individuales.</span></td>
+            <td width="291"><span class="style2">- Cafetería.</span></td>
+          </tr>
+          <tr>
+            <td><span class="style2">- 96 habitaciones dobles.</span></td>
+            <td><span class="style2">- Biblioteca y Aula de lectura.</span></td>
+          </tr>
+          <tr>
+            <td><span class="style2">
+- 3 habitaciones dobles Premier.</span></td>
+            <td><span class="style2">- Salas de Terapia ocupacional.</span></td>
+          </tr>
+          <tr>
+            <td><span class="style2">- 1 habitación individual Premier.</span></td>
+            <td><span class="style2">- Sala de TV, cine y audiovisuales.</span></td>
+          </tr>
+          <tr>
+            <td><span class="style2">- Habitaciones con terraza propia.</span></td>
+            <td><span class="style2">- Sala de Internet.</span></td>
+          </tr>
+          <tr>
+            <td><span class="style2"> - Todas las habitaciones están delimitadas según el grado de autonomía.</span></td>
+            <td><span class="style2">- Sala de rehabilitación.</span></td>
+          </tr>
+          <tr>
+            <td><span class="style2">- Luminosidad, luz natural.</span></td>
+            <td><span class="style2">- Espacios para animación sociocultural.</span></td>
+          </tr>
+          <tr>
+            <td><span class="style2">- Jardín privado y zonas verdes adaptadas para dar paseos y descansos.</span></td>
+            <td><span class="style2">- Sala de Internet.</span></td>
+          </tr>
+          <tr>
+            <td><span class="style2">- Atención de Calidad.</span></td>  
+             <td><span class="style2">- Sala de rehabilitación.</span></td>
+          </tr>
+          <tr>
+            <td><span class="style2">- Amplio horario de visitas.</span></td>
+            <td><span class="style2">- Espacios para animación sociocultural.</span></td>
+          </tr>
+          <tr>
+            <td><span class="style2">- Servicios comunitarios de restauración; menús adaptados.</span></td>
+            <td><span class="style2">- TV plasma en todas las habitaciones.</span></td>
+          </tr>
+          <tr>
+            <td><span class="style2">- Estancias temporales.</span></td>
+            <td><span class="style2">- Terraza-solarium.</span></td>
+          </tr>
+          <tr>
+            <td><span class="style2">- Lavandería propia.</span></td>
+            <td><span class="style2">- Parking propio para residentes.</span></td>
+          </tr>
+          <tr>
+            <td><span class="style2">- Aula y servicio de guardería.</span></td>
+            <td><span class="style2">- Salas de visita.</span></td>
+          </tr>
+        </table>
+        </blockquote>
+       </div>
+     </div>
+  <div id="footer"> 
+   
+   <a href="index.shtml" id="abajo">Inicio </a>| 
+  <a href="contacto.shtml" id="abajo">Contacto </a>| 
+   <a href="index.shtml" id="abajo">LOPD</a>   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;© 2009   </div>
+
+
+</div>
+	
+</div>
+	
+</body>
+
+</html>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+<meta name="title" content="Residencial La Vega Salamanca"/>
+<meta name="DC.Title" content="Residencial La Vega Salamanca"/>
+<meta name="robots" content="all"/>
+
+	<title>Web Residencial La Vega</title>
+    
+    <link rel="stylesheet" href="estilos.css" type="text/css" media="all" />
+    
+<style type="text/css">
+<!--
+body,td,th {
+	color: #FFFFFF;
+}
+.style2 {color: #FFFFFF}
+-->
+</style></head>
+
+<body topmargin="0" bottommargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('../imagenes/boton_avanzar_do.png')">
+<script language="JavaScript1.2" type="text/javascript">mmLoadMenus();</script>
+
+ <div id="content">
+ 
+   <div id="globalcontainer">
+     <!--#INCLUDE virtual="include/cabecera.html" -->
+     <div id="medio">
+      <!--#INCLUDE virtual="include/lateral.html" -->
+    <div id="espacio1">
+    
+    
+    
+   <table width="700" height="341" border="0">
+     <tr bordercolor="#006227">
+       <td width="700" height="333">
+       
+       <table width="694" height="449" border="0">
+         <tr>
+           <td width="500" height="357"><blockquote>
+             <p align="justify" id="normal">Si desea mayor información sobre los servicios y actividades puede llamarnos al teléfono 923 19 42 66 o enviarnos un correo electrónico con sus dudas e inquietudes a <a href="mailto:info@esgrasalamanca.com" id="vinculo">info@esgrasalamanca.com</a>.</p>
+             <p align="justify" id="normal">También puede dirigirse directamente a Residencial La Vega ubicada en:</p>
+           </blockquote>
+           
+             <blockquote>
+               <p align="justify" id="normal">Calle Avenida Padre Ignacio Ellacuría, 1 (Frente a Salas Bajas)<br />
+                 37008 Salamanca. </p>
+               <p align="justify" id="normal">Ubicación en Google Maps</p>
+               <p align="justify">&nbsp;</p>
+               <div align="center"><img src="imagenes/mapa.JPG" alt="" width="300" height="199" /><br />
+                        </p>
+                     </div>
+                  </blockquote>             
+                  </td>
+           <td><p align="right">&nbsp;</p>
+             <p>&nbsp;</p>
+             <p>&nbsp;</p>
+             <p>&nbsp;</p>
+             <p><img src="imagenes/contacto.png" alt="" width="197" height="300" /></p>
+             </td>
+         </tr>
+       </table>
+          </td>
+     </tr>
+   </table>
+       </div>
+     </div>
+  <div id="footer"> 
+   
+   <a href="index.shtml"  id="abajo">Inicio </a>| 
+   <a href="contacto.shtml" id="abajo">Contacto </a>| 
+   <a href="index.shtml"  id="abajo">LOPD</a>   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;© 2009   </div>
+
+
+</div>
+	
+</div>
+	
+</body>
+
+</html>

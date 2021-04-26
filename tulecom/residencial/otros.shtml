@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+<meta name="title" content="Residencial La Vega Salamanca"/>
+<meta name="DC.Title" content="Residencial La Vega Salamanca"/>
+<meta name="robots" content="all"/>
+
+	<title>Web Residencial La Vega</title>
+    
+    <link rel="stylesheet" href="estilos.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="print.css" type="text/css" media="print" />
+    
+<style type="text/css">
+<!--
+body,td,th {
+	color: #FFFFFF;
+}
+.style1 {
+	color: #006;
+	font-weight: bold;
+}
+-->
+</style>
+<script type="text/javascript" src="carousel_2008.js"></script>
+<script type="text/javascript" src="carousel_2008_conf_4.js"></script>
+</head>
+
+<body topmargin="0" bottommargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('../imagenes/boton_avanzar_do.png')">
+<script language="JavaScript1.2" type="text/javascript">mmLoadMenus();</script>
+
+ <div id="content">
+ 
+   <div id="globalcontainer">
+   <!--#INCLUDE virtual="include/cabecera.html" -->
+     <div id="medio">
+     <!--#INCLUDE virtual="include/lateral.html" -->
+    <div id="espacio1">
+      <blockquote>
+        &nbsp;
+        <p id="titulo1"> Otros Centros Esgra</p>
+        <p align="justify">Mozárbez</p>
+        <p align="justify">Alaraz        </p>
+        <p align="justify">Guijuelo          </p>
+        <p align="justify">Macotera          </p>
+        <p align="justify">"Santa Marta"</p>
+        <p align="justify"><br />
+        </p>
+      <div id="carousel1">
+      <img src="imagenes/rotores/1.png" alt="1"  /><img src="imagenes/rotores/2.png" alt="2" /><img src="imagenes/rotores/3.png" alt="3" /><img src="imagenes/rotores/4.png" alt="4"  /><img src="imagenes/rotores/5.png" alt="5"  /> </div>
+       
+        <p align="justify">&nbsp;</p>
+      </blockquote>
+    </div>
+       <br />
+     </div>
+  <div id="footer"> 
+   
+   <a href="index.shtml" id="abajo" >Inicio </a>| 
+   <a href="contacto.shtml" id="abajo" >Contacto </a>| 
+   <a href="index.shtml" id="abajo">LOPD</a>   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;© 2009   </div>
+
+
+</div>
+	
+</div>
+	
+</body>
+
+</html>

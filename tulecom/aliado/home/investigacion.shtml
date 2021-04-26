@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>ALIADO</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../estilos.css" type="text/css" media="all" />
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+//-->
+</script>
+</head>
+
+<body>
+<div id="content">
+  <div id="globalcontainer">
+    <!--#INCLUDE virtual="../include/cabecera_limpia.html" -->
+
+
+<div id="medio">	<!--#INCLUDE virtual="../include/lateral_index.html" --> 
+   <div id="contenido" style="position:absolute; width:709px; height:115px; z-index:1">       
+		 <p>&nbsp;
+
+        </p>
+        <p id="titulo_cont">Lineas de Investigaci&oacute;n        </p>
+           <img src="../imagenes/imagen_puntos.jpg" width="472" height="9"><br>
+        <p align="justify" id="gen">Los pilares de la Inteligencia Ambiental,
+          y como consecuencia, del proyecto ALIADO de TULECOM son las siguientes:</p>
+       <ul>   <li><p id="cont" align="justify"> Un soporte tecnol&oacute;gico basado en la computaci&oacute;n y
+            comunicaci&oacute;n ubicua</li><br>
+  <li><p id="cont" align="justify">Percepci&oacute;n de la situaci&oacute;n y sensibilidad al contexto</li><br>
+ <li><p id="cont" align="justify"> Modelos de razonamiento e inteligencia artificial</li><br>
+ <li><p id="cont" align="justify"> Entorno de interacci&oacute;n natural, transparencia e imperceptibilidad</li><br>
+ <li><p align="justify" id="cont"> Comunicaciones r&aacute;pidas, fiables y seguras.</li></ul></p>
+  <p align="justify" id="gen">  Por tanto los ejes del proyecto ALIADO se pueden encuadrar en diferentes v&iacute;as
+   de investigaci&oacute;n que coinciden con las lineas de trabajo de los tres
+   grupos de trabajo del Programa de investigaci&oacute;n (Inteligencia Ambiental,
+   Gesti&oacute;n del Conocimiento y Seguridad y Comunicaciones). A continuaci&oacute;n
+   se relacionan, a modo de resumen, las tecnolog&iacute;as gen&eacute;ricas
+   m&aacute;s relevantes, agrupadas por su tipolog&iacute;a en las &aacute;reas
+   tecnolog&iacute;cas TICs, para la casu&iacute;stica y problem&aacute;tica
+   de los enfermos de Alzhemier y sus cuidadores:<br>
+ </p><ul>
+<li><p id="cont" align="justify">Comunicaciones y Redes</li><br>
+ <li><p id="cont" align="justify"> Microsistemas electr&oacute;nicos (incl. almacenamiento)  </li><br>
+ <li><p id="cont" align="justify"> Interfaces de Usuario  </li><br>
+ <li><p id="cont" align="justify"> Gesti&oacute;n del Conocimiento  </li><br>
+ <li><p id="cont" align="justify"> Inteligencia Artificial  </li> <br>
+ <li><p id="cont" align="justify"> Fuentes de alimentaci&oacute;n el&eacute;ctrica   </li></ul><br>
+ 
+         
+ <br>
+          </p>
+   </div>
+   
+   </div>
+
+</div>
+
+
+<!--#INCLUDE virtual="../include/pie.html" -->
+</div>
+</body>
+</html>

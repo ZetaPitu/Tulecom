@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+<head>
+
+<script language="JavaScript" src="mm_menu.js" type="text/javascript"></script>
+<script language="JavaScript" src="jscript.js" type="text/javascript"></script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+<meta name="title" content="Residencial La Vega Salamanca"/>
+<meta name="DC.Title" content="Residencial La Vega Salamanca"/>
+<meta name="robots" content="all"/>
+
+	<title>Web Residencial La Vega</title>
+    
+    <link rel="stylesheet" href="estilos.css" type="text/css" media="all" />
+    
+<style type="text/css">
+<!--
+body,td,th {
+	color: #FFFFFF;
+}
+a:link {
+	text-decoration: underline;
+}
+a:visited {
+	text-decoration: underline;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: underline;
+}
+.style2 {
+	font-size: 14px
+}
+-->
+</style></head>
+
+<body topmargin="0" bottommargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('../imagenes/boton_avanzar_do.png')">
+<script language="JavaScript1.2" type="text/javascript">mmLoadMenus();</script>
+
+ 
+ <div id="content">
+ 
+<div id="globalcontainer">
+  <!--#INCLUDE virtual="include/cabecera.html" -->
+    
+  <div id="medio">
+    <!--#INCLUDE virtual="include/lateral.html" -->
+    <div id="espacio">
+      <table width="700" border="0" align="center">
+          <tr>
+           <td id="fondo_index" alt="" width="700" height="253" /><table width="236px" border="0" align="right" cellpadding="9"  >
+             <tr>
+               <td height="10"><div align="justify">
+                  
+                    <p id="parrafo">Para que los mayores que no tengan 
+                       limitaciones en sus capacidades de 
+                       autonoma y puedan vivir como en un 
+                       hotel, tengan plena libertad de
+                       actividades tanto dentro como fuera del 
+                       ambito residencial.<br /><br/>
+                       Y las personas que su grado de dependencia sera mayor tienen zonas 
+                       especialmente dedicadas a sus 
+                       necesidades y donde se les proporciona 
+                       todos los servicios socio sanitarios que 
+                    puedan necesitar. &nbsp;<a href="quienes.shtml" id="abajo" >Más...</a></p>
+                         
+               </div></td>
+             </tr>
+           </table>
+            <table width="200" border="0" align="right">
+                
+            </table></td>
+          </tr>
+          <tr>
+              <td width="700" height="20"></td>
+          </tr>
+          <tr>
+            <td background="imagenes/fondo-gris.png"><table width="696" height="194" border="0">
+              
+              <tr>
+                <td width="216"><blockquote>
+                  <p id="titulo1">Contáctenos</p>
+                  </blockquote>
+                  <p class="style2">&nbsp; 923 19 42 66<br />
+                  </p>
+                  <p ><a href="mailto:info@esgrasalamanca.com" id="mas">&nbsp; info@esgrasalamanca.com</a></p>
+                  </p></td>
+                <td width="234"><div align="center"><img src="imagenes/recuadroverde.png" alt="" width="200" height="171" /></div></td>
+                <td width="232"><div align="center"><img src="imagenes/recuadroverde1.png" alt="" width="200" height="171" /></div></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table>
+  </div>
+    </div>
+  <div id="footer"> 
+   
+ <a href="index.shtml" id="abajo" >Inicio </a>| 
+  <a href="contacto.shtml" id="abajo" >Contacto </a>| 
+   <a href="index.shtml" id="abajo">LOPD</a>   &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;© 2009</div>
+
+</div>
+  
+
+</div>
+	
+</body>
+
+</html>

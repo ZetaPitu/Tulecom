@@ -1,0 +1,99 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>ALIADO</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="../estilos.css" type="text/css" media="all" />
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+//-->
+</script>
+<style type="text/css">
+<!--
+.style1 {color: #9c909f}
+a:link {
+	color: #58585a;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #58585a;
+}
+a:hover {
+	text-decoration: none;
+	color: #58585a;
+}
+a:active {
+	text-decoration: none;
+	color: #58585a;
+}
+-->
+</style>
+</head>
+
+<body>
+<div id="content">
+  <div id="globalcontainer">
+    <!--#INCLUDE virtual="../include/cabecera_limpia.html" -->
+
+
+<div id="medio">	<!--#INCLUDE virtual="../include/lateral_index.html" --> 
+   <div id="contenido" style="position:absolute; width:709px; height:115px; z-index:1">       
+		
+          <p>&nbsp;
+
+          </p>
+          <p align="justify" id="titulo_cont">Publicaciones<br></p>
+          <img src="../imagenes/imagen_puntos.jpg" width="472" height="9"><br>
+          <p align="justify" id="gen">Congresos 2008<br>
+          <ul><li><p align="justify" id="cont"><a href="http://bisite.usal.es/images/stories/publicaciones/otras/congresos/2008/iberagents%20fraile.pdf">Developing a Multi-Agent Architecture for Home Care Environments.</a></li>
+            <a href="http://bisite.usal.es/images/stories/publicaciones/revistas/2008/expertsystem2008.pdf"><br> 
+            </a>
+            <li> <p align="justify" id="cont"><a href="http://bisite.usal.es/images/stories/publicaciones/otras/congresos/2008/ecai%20bajo.pdf"> GR-MAS: Multi-Agent System for Geriatric Residences</a></li>            
+            <a href="http://bisite.usal.es/images/stories/publicaciones/revistas/2008/x2abr.pdf"><br>
+            </a>
+           
+            <a href="http://bisite.usal.es/images/stories/publicaciones/revistas/2007/2007_rev_dss_009.pdf"><br>
+            </a>
+
+        </ul>
+            <p align="justify" id="gen"><br>
+              Revistas 2007<br>
+          <ul>   <li> <p align="justify" id="cont"><a href="http://bisite.usal.es/images/stories/publicaciones/revistas/2007/2007_rev_dss_006.pdf">SpamHunting: An Instance-Based Reasoning System for Spam Labelling and Filtering.</a></li>
+            <a href="http://bisite.usal.es/images/stories/publicaciones/revistas/2007/2007_rev_esa_005.pdf"><br>
+            </a>
+            <li> <p align="justify" id="cont"><a href="http://bisite.usal.es/images/stories/publicaciones/revistas/2007/2007_rev_esa_005.pdf">Applying Lazy Learning Algorithms to Tackle Concept Drift in Spam Filtering.</a></li>
+              <a href="http://bisite.usal.es/images/stories/publicaciones/revistas/2007/2007_rev_esa_005.pdf"><br>
+              </a>
+               <li> <p align="justify" id="cont"><a href="http://bisite.usal.es/images/stories/publicaciones/revistas/2007/2007_rev_ieee_004.pdf">Reducing the Memory Size of a Fuzzy Case-Based Reasoning System Applying Rough Set Techniques.</a></li>
+               <br>
+                <li> <p align="justify" id="cont"><a href="http://bisite.usal.es/images/stories/publicaciones/revistas/2007/2007_rev_ibero_003.pdf">Sistemas inteligentes para la detección y filtrado de correo spam: una revisión.</a></li>
+        </ul>
+          <br>
+<p align="justify" id="gen">Capítulos de Libros 2008<br>
+                  <ul><li> <p align="justify" id="cont"> A Distributed Ambient Intelligence Based Multi-Agent System for Alzheimer Health Care.</li>
+                    <a href="http://bisite.usal.es/images/stories/publicaciones/otras/2008/eai%20bajo.pdf"><span class="enlace"><br>
+                    </span></a>
+                    <li> <p align="justify" id="cont"><span class="style1"><a href="http://bisite.usal.es/images/stories/publicaciones/otras/2008/eai%20bajo.pdf">  Planning Agent for Health Care: Ambient Intelligence in Practice.</a></span></li>
+                    <a href="http://bisite.usal.es/images/stories/publicaciones/otras/2008/ami%20Tapia.pdf"><br>
+                    </a>
+                    <li> <p align="justify" id="cont"><a href="http://bisite.usal.es/images/stories/publicaciones/otras/2008/ami%20Tapia.pdf">An Ambient Intelligence Based Multi-Agent Architecture.</a></li>
+                    <a href="http://bisite.usal.es/images/stories/publicaciones/otras/2008/soft%20computing%20applications%20in%20industry.pdf"><br>
+                    </a>
+                    <li> <p align="justify" id="cont"><a href="http://bisite.usal.es/images/stories/publicaciones/otras/2008/soft%20computing%20applications%20in%20industry.pdf">A CBR system, the core of an ambient intelligence health care application.</a></li><br>
+      </ul>
+      </div>
+    </div>
+    </div>
+
+
+<!--#INCLUDE virtual="../include/pie.html" -->
+</div>
+</body>
+</html>
